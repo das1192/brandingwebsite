@@ -1,0 +1,1 @@
+[13-Apr-2018 16:02:11 Asia/Dhaka] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/tecnotro/public_html/test/PHPMailer/src/PHPMailer.php on line 1597
